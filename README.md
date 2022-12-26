@@ -3,7 +3,7 @@
 Don't judge, this is just one of my attempts to design the site nicely.
 I've finished the layout, but the site only looks normal on my laptop. 
 <div align="center">
-  <img scr="screen.jpg" >
+  <img src="screen.jpg" >
 </div>
 
 ### 📋 The site has:
@@ -19,7 +19,7 @@ I've finished the layout, but the site only looks normal on my laptop.
 ### 💼:
 
 <div align="center">
-  <img scr="htmlcss.jpg" >
+  <img src="htmlcss.jpg" >
 </div>
 
 ## Auteur
