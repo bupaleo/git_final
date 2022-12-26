@@ -18,9 +18,8 @@ I've finished the layout, but the site only looks normal on my laptop.
 
 ### 💼:
 
-<div align="center">
-  <img src="htmlcss.jpg" >
-</div>
+> 55.9% 𝓱𝓽𝓶𝓵
+> 45.1% 𝓬𝓼𝓼
 
 ## Auteur
 
